@@ -1,0 +1,4 @@
+venv/
+vectorstore/faiss_index/
+
+.env
